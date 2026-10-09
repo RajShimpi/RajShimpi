@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="ASCII line-art portrait of Raj Shimpi with his profile: Full-Stack Developer. React, Node.js, Express, MongoDB, MySQL and PHP. Featured projects: etl-tool-ui, E-Commerce-App-MERN and PortFolioAdmin.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajShimpi/RajShimpi/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajShimpi/RajShimpi/main/light.svg">
+  <img src="https://raw.githubusercontent.com/RajShimpi/RajShimpi/main/dark.svg" width="100%" alt="ASCII line-art portrait of Raj Shimpi with his profile: Full-Stack Developer. React, Node.js, Express, MongoDB, MySQL and PHP. Featured projects: etl-tool-ui, E-Commerce-App-MERN and PortFolioAdmin.">
 </picture>
 
 <br>
