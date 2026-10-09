@@ -54,6 +54,28 @@ I'm a full-stack / software developer based in Pune, India. I work mostly in Jav
 
 <br>
 
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RajShimpi/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RajShimpi/github-snake/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/RajShimpi/github-snake/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<br>
+
 ## Connect
 
 [GitHub](https://github.com/RajShimpi) · [LinkedIn](https://www.linkedin.com/in/raj-shimpi-892b8b253) · [X](https://x.com/RajShimpi12)
